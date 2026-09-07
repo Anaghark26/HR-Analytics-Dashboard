@@ -172,11 +172,11 @@ Based on the dashboard analysis, the following actions can help HR improve workf
 
 ## Workforce & Performance Overview
 
-![HR Analytics Dashboard - Overview](Screenshots/HR_Dashboard_Overview.png)
+![HR Analytics Dashboard - Overview](Screenshot 2026-08-19 205445.png)
 
 ## Employee Lifecycle & Performance
 
-![HR Analytics Dashboard - Employee Lifecycle](Screenshots/HR_Dashboard_Lifecycle.png)
+![HR Analytics Dashboard - Employee Lifecycle](Screenshot 2026-08-19 205504.png)
 
 ---
 
